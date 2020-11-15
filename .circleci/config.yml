@@ -1,0 +1,9 @@
+print('Este programa apresenta algumas operações com os valores de entrada.')
+n1 = int(input('Digite um valor inteiro:'))
+n2 = int(input('Digite outro valor inteiro:'))
+print('Soma =',n1 + n2)
+print('Subtração =',n1 - n2)
+print('Multiplicação =',n1 *n2)
+print('Divisão =',n1/n2)
+print('O quadrado do primeiro valor =',n1**2 '/n O quadrado do segundo valor =',n2**2)
+
